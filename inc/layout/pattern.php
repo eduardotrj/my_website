@@ -1,0 +1,1 @@
+(?!.*zorra|.*ZORRA|.*fuck|.*FUCK.*)[a-zA-Z0-9&_.'\u00C0-\u00FF\s]*

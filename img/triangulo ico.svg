@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="20" viewBox="0 0 24 20">
+  <g id="Polygon_1" data-name="Polygon 1" transform="translate(24 20) rotate(180)" fill="#fff">
+    <path d="M 23.11689949035645 19.5 L 0.8830999732017517 19.5 L 12 0.971833348274231 L 23.11689949035645 19.5 Z" stroke="none"/>
+    <path d="M 12 1.943649291992188 L 1.766189575195313 19 L 22.23381042480469 19 L 12 1.943649291992188 M 12 0 L 24 20 L 0 20 L 12 0 Z" stroke="none" fill="#707070"/>
+  </g>
+</svg>
